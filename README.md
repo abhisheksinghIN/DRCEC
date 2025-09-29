@@ -7,4 +7,5 @@ We present a mono- and dual-regulated contractive-expansive-contractive (MRCEC/D
 - We design a specific neural network in which one master encoding convolutional network controls the decoding and encoding convolutional networks to incorporate the original input information.
 
 <img width="820" height="487" alt="image" src="https://github.com/user-attachments/assets/e123c798-faa4-4f82-98e5-084cdbdded9b" />
+
 Overview of our end-end framework for the scene-based MS image classification. (a) Proposed MRCEC architecture. (b) Proposed DRCEC architecture.
