@@ -1,4 +1,4 @@
-#### Mono- and Dual-Regulated Contractive-Expansive-Contractive Deep Convolutional Networks for Classification of Multispectral Remote Sensing Images
+# Mono- and Dual-Regulated Contractive-Expansive-Contractive Deep Convolutional Networks for Classification of Multispectral Remote Sensing Images
 
 We present a mono- and dual-regulated contractive-expansive-contractive (MRCEC/DRCEC) CNN architecture. In particular, our contributions are as follows.
 
