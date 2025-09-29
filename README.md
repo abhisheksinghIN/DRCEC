@@ -9,3 +9,5 @@ We present a mono- and dual-regulated contractive-expansive-contractive (MRCEC/D
 <img width="820" height="487" alt="image" src="https://github.com/user-attachments/assets/e123c798-faa4-4f82-98e5-084cdbdded9b" />
 
 Overview of our end-end framework for the scene-based MS image classification. (a) Proposed MRCEC architecture. (b) Proposed DRCEC architecture.
+
+Cite: A. Singh and L. Bruzzone, "Mono- and Dual-Regulated Contractive-Expansive-Contractive Deep Convolutional Networks for Classification of Multispectral Remote Sensing Images," in IEEE Geoscience and Remote Sensing Letters, vol. 19, pp. 1-5, 2022, Art no. 5513605, doi: 10.1109/LGRS.2022.3211861.
